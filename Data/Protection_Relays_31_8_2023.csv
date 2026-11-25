@@ -1,0 +1,112 @@
+Sl No,Relay Number,Relay Description,Used
+2,2,Time Delay Starting or Closing Relay,Power System Protection
+3,3,Checking or Interlocking Relay,Power System Protection
+4,4,Master Contactor,Power System Protection
+5,5,Stopping Relay,Power System Protection
+6,6,Starting Circuit Breaker,Power System Protection
+7,7,Rate of change relay,Power System Protection
+8,8,Control Power Disconnecting Device,Power System Protection
+9,9,Reversing Device,Deisel Engine Set Protection
+10,10,Unit Sequence Switch,Power Sytems Protection
+11,11,Multi Function Device,Power Sytems Protection
+12,12,Overspeed Device,Power Sytems Protection
+13,13,Synchronous Speed Device,Power Sytems Protection
+14,14,Under Speed Device,Power Sytems Protection
+15,15,Speed or Frequency Matching device,Power Sytems Protection
+16,16,Data Communication Device,Power Sytems Protection
+17,17,Shunting or Discharge Switch,Power Sytems Protection
+18,18,Accelerating or Decelerating Device,Power Sytems Protection
+19,19,Starting to Running Transition Contactor,Power Sytems Protection
+20,20,Electrically Operated Valve,Power Sytems Protection
+21,21,Distance Relay,Power Systems Protection
+22,22,Equlualizer Circuit Breaker,Power Systems Protection
+23,23,Temperature Control Device,Deisel Engine Set Protection
+24,24,Volts Per Hertz Relay,Deisel Engine Set Protection
+25,25,Scnchronizing or Scnchronising Check Device,Deisel Engine Set Protection
+26,26,Appartus Thermal Device,Deisel Engine Set Protection
+27,27,Under Voltage Relay,Deisel Engine Set Protection
+28,27S,DC Undervoltage Relay,Deisel Engine Set Protection
+29,28,Flame Detector,Deisel Engine Set Protection
+30,29,Isolating Contactor or switch,Deisel Engine Set Protection
+31,30,Annunciator Relay,Deisel Engine Set Protection
+32,31,Seperate Excitataion,Deisel Engine Set Protection
+33,32,Directional Power or Reverse Power Relay,Deisel Engine Set Protection
+34,33,Position Switch,Deisel Engine Set Protection
+35,34,Master Sequence Device,Deisel Engine Set Protection
+36,35,Brush Opertaing or Slip Ring Short Circuiting Device,Deisel Engine Set Protection
+37,36,Polarity or Polarising Voltage Device,Deisel Engine Set Protection
+38,37,Under Current or Under Power Relay,Deisel Engine Set Protection
+39,38,Bearing Protective Device,Deisel Engine Set Protection
+40,39,Mechanical Condition Monitor,Deisel Engine Set Protection
+41,40,Field Over/Under Excitataion Relay,Deisel Engine Set Protection
+42,41,Field Circuit Breaker,Deisel Engine Set Protection
+43,42,Running Circuit Breaker,Deisel Engine Set Protection
+44,43,Manual Tranfer or Selector Device,Deisel Engine Set Protection
+45,44,Unit Sequence Starting Relay,Deisel Engine Set Protection
+46,45,DC Over Voltage Relay,Deisel Engine Set Protection
+47,46,Reverse Phase or Phase Balance Current Relay,Deisel Engine Set Protection
+48,47,Phase Sequence or Phase Balance Voltage Relay,Deisel Engine Set Protection
+49,48,Incomplete Sequence Relay,In Power Circuit Protection
+50,49,Machine or Transformer Thermal Relat -OLR,Equipment Protection
+51,50,Instantaneous Over Current,In Power System Protection
+52,50G,Instantaneous Earth Over Current Relay -Neutral CT Method,In Power System Protection
+53,50N,Instantaneous Earth Over Current Relay -Residual Method,In Power Circuit Protection
+54,50BF,Breaker Failure,In Power System Protection
+55,51,AC Inverse Time Over Current Relay,In Power System Protection
+56,51 LR,AC Inverse Time OC Realy -Locked Rotor Protection Relay,In Industries for Motor Protection
+57,51G,AC Inverse Time Over Current Relay-Neutral CT Method,In Power System Protection
+58,51N,AC Inverse Time Earth Over Curreent Relay -Residual Method,In power System Protection
+59,52,AC Circuit Breaker,In Industrial and all Power Systems
+60,52a,AC Circuit Breaker Position (Conatct Open when Breaker Open),In Power Systems and Industries.
+61,52b,AC Circuit Breaker Position (Contact Closed when Breaker Open),In Power Systerms and Industrial Sytems
+62,53,Excitor or DC Generator Relay,In Power System and Industrial Applications
+63,54,Tuning Gear Engaging Relay,Industrial Applications
+64,55,Power Factor Relay,Power System Protection and Control
+65,56,Field Application Relay,Industrial Applications
+66,57,Short Circuit or Grounding Device,Protection and Industrail Applications
+67,58,Rectification Failure Relay,Industrial Applications
+68,59,Over Volatge Relay,Protection and Industrial Applications
+69,60,Volatge Or Curreent Balance Relay,Industrial Applications
+70,61,Density Switch or Sensor,Industrial Applications
+71,62,Time Delay Stopping or Opening Relay,Industrial Applications
+72,63,Pressure Switch,Power System Protection and Industrial Applications
+73,64,Ground Detector Relay,Power System and Industrial Applications
+74,64REF,Restricted Earth Fault Diffrential,Power System Protection
+75,64R,Rotor Earth Fault,Industrial Applications
+76,64S,Stator Earth Fault,Industrial Applications
+77,65,Governor,Power System and Industrial Applications
+78,66,Notching or Jogging Device,Industraial Applications
+79,67,AC Directional Over Current Relay,Power System Protection
+80,67N,Directional Earth Fault Relay,Power System Protection
+81,68,Blocking Relay,Power System and Industrial Applications
+82,69,Permissive Control Device,Industrial Applications
+83,70,Rheostat,Power System and Industrial Applications
+84,71,Liquid Level Switch,Industrial Applications
+85,72,DC Circuit Breaker,Industrial Applications
+86,73,Load Resistor Contactor,Industrial Applications
+87,74,Alarm Relay,Power System Protection and Industrial Applications
+88,75,Position Changing Mechanism,Industrial Applications
+89,76,DC Over Current Relay,Industrial Applications
+90,77,Telemetering Device,Industrial and Commercial Applications
+91,78,Phase Angle Measuring Relay-Out of Step Relay,Power Systems and Industrial Applications
+92,79,Auto Reclosing Relay,Power Systems Protection
+93,80,Flow Switch,Industrial Applications
+94,81,Frequency Relay,Power System Protection and Industrial Applications
+95,82,DC Reclosing Relay,Power System Protection
+96,83,Automatic Selective Control or Transfer Relay,Power System Applications
+97,84,Operating Mechanism,Power System and Industrial Applications
+98,85,Communication Carrier or Pilot Wire Relay,Industrial Applications
+99,86,Master Trip or Lock Out Relay,Power System Protection
+100,87,Diffrential Protective Relay,Power System Protection
+101,88,Auxillary Motor or Motor Generator,Industrial Applications
+102,89,Line Switch,Industrial Applications
+103,90,Regulating Device,Industrail Applications
+104,91,Voltage Directional Relay,Power System Protection
+105,92,Voltage and Power Directional Relay,Power Sytem Protection
+106,93,Field Changing Contactor,Industrial Applications
+107,94,Tripping or Trip Free Relay -Trip Circuit Supervision Relay,Power System Protection
+108,95,For Specific Applications-Other numbers not suitable,Power Systems and Industrial Applications
+109,96,Bus Bar Trip Lock-Out Relay,Power System Protection
+110,97,For Specific Applications-Other numbers not suitable,Power Systems and Industrial Applications
+111,98,For Specific Applications-Other numbers not suitable,Power System and Industrial Applications
+112,99,For Specific Applications-Other numbers not suitable,Power Ssytem and Industrial Applications

@@ -1,0 +1,26 @@
+#
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+python.exe
+pyvenv.cfg
+
+# Build folders
+build/
+dist/
+dist1/
+
+# Archives
+*.rar
+*.zip
+
+# Windows
+Thumbs.db
+Desktop.ini

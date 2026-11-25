@@ -1,0 +1,56 @@
+Sl No,Size,AC Current in Air GPPVC,AC Current in Ground GPPVC,AC Current in Air HRPVC,AC Current in Ground HRPVC,Weight in Kg/Km,Conductor Resisistance in Ohms per Km,Overall Diameter,Material of Core,PVC Insulation Thickness,KA for One Second,Cost in Rs per m
+1,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 35 sq mm,86,92,105,108,1130,0.868,26,Aluminium,1.2,0,0
+2,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 50 sq mm,105,110,127,129,1440,0.641,29.5,Aluminium,1.4,0,0
+3,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 70 sq mm,130,135,159,157,1815,0.443,34,Aluminium,1.4,0,0
+4,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 95 sq mm,155,165,190,193,2250,0.32,37.5,Aluminium,1.6,0,0
+5,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 120 sq mm,180,185,218,215,2690,0.253,41.5,Aluminium,1.6,0,0
+6,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 150 sq mm,205,210,251,246,3160,0.206,46.5,Aluminium,1.8,0,0
+7,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 185 sq mm,240,235,295,276,3790,0.164,49.5,Aluminium,2,0,0
+8,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 240 sq mm,280,275,340,322,4700,"0,125",56,Aluminium,2.2,0,0
+9,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 300 sq mm,315,305,386,358,5665,0.1,62,Aluminium,2.4,0,0
+10,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 400 sq mm,375,335,445,390,7030,0.0778,69.5,Aluminium,2.6,0,0
+11,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 2.5 sq mm,18,21,22,24,460,12.1,15.5,Aluminium,0.9,0,0
+12,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 4 sq mm,23,28,28,32,540,7.41,17.5,Aluminium,1,0,0
+13,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 6 sq mm,30,35,38,41,615,4.61,18.5,Auminium,1,0,0
+14,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 10 sq mm,40,46,49,54,610,3.08,21.5,Auminium,1,0,0
+15,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 16 sq mm,51,60,63,69,810,1.91,24,Aluminium,1,0,0
+16,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 25 sq mm,70,76,86,89,1045,1.2,24.5,Aluminium,1.2,0,0
+17,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 35 sq mm,86,92,105,108,1240,0.868,26.5,Aluminium,1.2,0,0
+18,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 50 sq mm,105,110,127,129,1590,0.641,30,Aluminium,1.4,0,0
+19,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 70 sq mm,130,135,159,157,1995,0.443,34.5,Aluminium,1.4,0,0
+20,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 95 sq mm,155,165,190,193,2510,0.32,38.5,Aluminium,1.6,0,0
+21,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 120 sq mm,180,185,218,215,2990,0.253,42,Aluminium,1.6,0,0
+22,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 150 sq mm,205,210,251,246,3545,0.206,48.5,Aluminium,1.8,0,0
+23,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 185 sq mm,240,235,294,276,4255,0.164,53,Aluminium,2,0,0
+24,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 240 sq mm,280,275,340,322,5325,0.125,59.5,Aluminium,2.2,0,0
+25,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 300 sq mm,315,305,386,358,6430,0.1,65.5,Aluminium,2.4,0,0
+26,4 Core Aluminium Un Armoured AYY Armoured AYFY/AYWY 1100 Volts Rated Cable 400 sq mm,375,335,445,390,7980,0.0778,73.5,Aluminium,2.6,0,0
+27,2 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 4 sq mm,35,41,43,48,520,4.61,15.5,Copper,1,0,0
+28,2 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 6 sq mm,45,50,55,58,590,3.08,16.5,Copper,1,0,0
+29,2 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 10 sq mm,60,70,73,81,740,1.83,18.5,Copper,1,0,0
+30,2 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 16 sq mm,78,90,95,105,820,1.15,20.5,Copper,1,0,0
+31,3 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 4 sq mm,30,36,37,42,590,4.61,16,Copper,1,0,0
+32,3 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 6 sq mm,39,45,48,53,690,3.08,17.5,Copper,1,0,0
+33,3 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 10 sq mm,52,60,63,69,875,1.83,19.5,Copper,1,0,0
+34,3 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 16 sq mm,66,77,81,90,1025,1.15,21.5,Copper,1,0,0
+35,4 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 4 sq mm,30,36,37,42,685,4.61,17.5,Copper,1,0,0
+36,4 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 6 sq mm,39,45,48,53,810,3.08,18.5,Copper,1,0,0
+37,4 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 10 sq mm,52,60,63,69,897,1.83,21.5,Copper,1,0,0
+38,4 Core Copper Conuctor PVC Insulated PVC Sheathed Unarmoured YY/Armoured YWY/YFY 16 sq mm,66,77,81,90,1250,1.15,23,Copper,1,0,0
+39,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 2.5 sq mm,18,21`,22,24,445,12.1,14.4,Aluminium,0.9,0,0
+40,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 4 sq mm,23,28,28,32,520,7.41,16,Aluminium,1,0,0
+41,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 6 sq mm,30,35,38,41,580,4.61,17.5,Aluminium,1,0,0
+42,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 10 sq mm,40,46,49,54,695,3.08,18.5,Aluminium,1,0,0
+43,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 16 sq mm,51,60,63,69,730,1.91,21.5,Aluminium,1,0,0
+44,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 25 sq mm,70,76,86,89,900,1.2,23,Aluminium,1.2,0,0
+45,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 35 sq mm,86,92,105,108,1050,0.868,25,Aluminium,1.2,0,0
+46,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 50 sq mm,105,110,127,129,1320,0.641,27.5,Aluminium,1.4,0,0
+47,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 70 sq mm,130,135,159,157,1635,0.443,32,Aluminium,1.4,0,0
+48,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 95 sq mm,155,165,190,193,2045,0.32,35.5,Aluminium,1.6,0,0
+49,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 120 sq mm,180,185,218,215,2415,0.253,39,Aluminium,1.6,0,0
+50,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 150 sq mm,205,210,251,246,2810,0.206,43,Aluminium,1.8,0,0
+51,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 185 sq mm,240,235,294,276,3305,0.164,46.5,Aluminium,2,0,0
+52,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 240 sq mm,280,275,340,322,4140,0.125,52,Aluminium,2.2,0,0
+53,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 300 sq mm,315,305,386,358,5040,0.1,57.5,Aluminium,2.4,0,0
+54,3 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 400 sq mm,375,335,445,390,6185,0.0778,65,Aluminium,2.6,0,0
+55,3.5 Core Aluminium Un Armoured AYY Armoured AYFY 1100 Volts Rated Cable 25 sq mm,70,76,86,89,970,"1,2",24,Aluminium,1.2,0,0

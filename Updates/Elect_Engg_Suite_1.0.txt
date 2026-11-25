@@ -1,0 +1,72 @@
+****************************************************************************************
+**********************Electrical Engineering Suite Ver 1.1******************************
+****************************************************************************************
+
+Features:
+1. Fault Level Analysis with Excel Interface for Results.
+2. Capacitor Bank Calculations KVar and Micro Farad Calculations.
+3. Lightning  Risk Analysis for Risk to Person RT1,Risk to Service to Public RT2,Risk to Cultural Heritage-RT3 with Excel 
+   interface for results.
+4. Cable Query to Query the LT and HT Cable Data Base.
+5. Protection Relay Database to Query the Relay Number and generate the use.
+6. Elevator Design - Added this program from another standalone package.
+
+Note:
+1. Completed on 4/10/2023.
+2. Tested on 5/10/2023.
+3. Pyinstaller used to generate One .EXE File and the ALL Directories added manually.
+4. In Oct 29 th modified the Elevator program to correct a bug in the calculation.
+5. Added some more fuctionalities into the Elevator module to include some more variables
+and green highlighting for within spec values.
+
+Folder with .exe
+_________________
+        |-------------Data(Folder with all Data .CSV Files for Cable,Protection Relays and Fault Calculation.
+        |-------------Images(Folder with all Pictures)
+	    |-------------Results(Folder where all Excel Results are Stored.
+
+Pyinstalled .SPEC File:
+(The .EXE file is not being created succesfully due to some SSL certificate issues.
+# -*- mode: python ; coding: utf-8 -*-
+
+
+a = Analysis(
+    ['C:\\Users\\santhoshjayarajan\\PycharmProjects\\Electrical_Engg_Suite_1.0\\Elec_Suite_10.py'],
+    pathex=['C:\\Users\\santhoshjayarajan\\PycharmProjects\\Electrical_Engg_Suite_1.0\\venv\\Lib\\site-packages'],
+    binaries=[],
+    datas=[('./Data/*.csv','./Data'),('./Images/*.PNG','./Images'),('./Updates/*.*','./Updates'),('./User Manual/*.*','./User Manual')],
+    hiddenimports=['appdir','tkinter'],
+    hookspath=[],
+    hooksconfig={},
+    runtime_hooks=[],
+    excludes=[],
+    noarchive=False,
+)
+pyz = PYZ(a.pure)
+
+exe = EXE(
+    pyz,
+    a.scripts,
+    [],
+    exclude_binaries=True,
+    name='Elec_Suite_10',
+    debug=False,
+    bootloader_ignore_signals=False,
+    strip=False,
+    upx=True,
+    console=True,
+    disable_windowed_traceback=False,
+    argv_emulation=False,
+    target_arch=None,
+    codesign_identity=None,
+    entitlements_file=None,
+)
+coll = COLLECT(
+    exe,
+    a.binaries,
+    a.datas,
+    strip=False,
+    upx=True,
+    upx_exclude=[],
+    name='Elec_Suite_10',
+)
